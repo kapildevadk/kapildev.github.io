@@ -35,6 +35,18 @@ This keyboard layout is based on the Nepali Unicode Traditional layout by Madan 
  
 ### That's it. You're all set to using 'Nepali Unicode Traditional' layout on your MAC.
 
+## Special characters included 
+
+1. 'zero-width joiner' (ZWJ) [U+200D]
+2. 'zero-width non-joiner' (ZWNJ) [U+200C]
+1. A Zero Width Joiner (ZWJ) is typically used to fuse two characters that normally do not form a ligature or a
+fused form.
+2. A Zero Width Non Joiner (ZWNJ) is typically used to represent the separated form of characters that normally
+fuse together to form a ligature.
+New characters in Traditional Layout 
+
+![special characters](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/blob/main/images/Special%20unicode%20characters.png)
+
 ## Keyboard Layouts
 
 ### Nepali Mode ( Normal Mode )
@@ -56,18 +68,6 @@ This keyboard layout is based on the Nepali Unicode Traditional layout by Madan 
 ![control Pressed](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/blob/main/images/16_control%20pressed.png)
 
 Download [the pdf here](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/blob/main/images/Keyboard-layouts.pdf) if needed.
-
-## Special characters included 
-
-1. 'zero-width joiner' (ZWJ) [U+200D]
-2. 'zero-width non-joiner' (ZWNJ) [U+200C]
-1. A Zero Width Joiner (ZWJ) is typically used to fuse two characters that normally do not form a ligature or a
-fused form.
-2. A Zero Width Non Joiner (ZWNJ) is typically used to represent the separated form of characters that normally
-fuse together to form a ligature.
-New characters in Traditional Layout 
-
-![special characters](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/blob/main/images/Special%20unicode%20characters.png)
 
 
 ## Suggestions 
